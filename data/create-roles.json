@@ -1,0 +1,14 @@
+[
+  {
+    "name": "role-manager",
+    "description": "List & create roles and attach permissions to roles"
+  },
+  {
+    "name": "permission-manager",
+    "description": "List and create permissions"
+  },
+  {
+    "name": "user-authorization-manager",
+    "description": "Attach role to user"
+  }
+]

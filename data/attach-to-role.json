@@ -1,0 +1,18 @@
+[
+  {
+    "role": "role-manager",
+    "permissions": ["list-roles", "create-role"]
+  },
+  {
+    "role": "permission-manager",
+    "permissions": [
+      "list-permissions",
+      "create-permission",
+      "attach-permission-to-role"
+    ]
+  },
+  {
+    "role": "user-authorization-manager",
+    "permissions": ["attach-roles-to-user"]
+  }
+]

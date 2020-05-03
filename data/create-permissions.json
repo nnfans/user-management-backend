@@ -1,0 +1,26 @@
+[
+  {
+    "name": "list-permissions",
+    "description": "List all permissions"
+  },
+  {
+    "name": "create-permission",
+    "description": "Create new permisssion"
+  },
+  {
+    "name": "attach-permissions-to-role",
+    "description": "Attach permission to role"
+  },
+  {
+    "name": "list-roles",
+    "description": "List all roles"
+  },
+  {
+    "name": "create-role",
+    "description": "Create new role"
+  },
+  {
+    "name": "attach-roles-to-user",
+    "description": "Attach permission to role"
+  }
+]
